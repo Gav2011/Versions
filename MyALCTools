@@ -2,5 +2,8 @@ Admin = 1.0
 File = 1.0
 Control = 1.0
 Driver = 1.0
+Bluestacks = 1.0  
+
+# i found bluestacks as malware when you uninstall it, the sys files are still running and in startup also wtf is "BlueStacksInstaller_5.22.150.1014_native_bf8771fd1afc1ee3aa1c7ff86f499a72_MDs1LDM7MTUsMTsxNSw0OzE1LDU7MTU=.exe"
 
 # These values were part of personal testing tools and are not used in any production or project code.
