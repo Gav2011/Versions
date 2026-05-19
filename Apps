@@ -16,7 +16,7 @@
     "color": "#f23f42",
     "initial": "S",
     "initialColor": "White",
-    "icon": "",
+    "icon": "https://cdn.modeminc.com/soundmod.png",
     "subDir": "SoundMod",
     "exeUrl": "https://github.com/Gav2011/SoundMod/releases/latest/download/SoundModDownloader.exe",
     "exeName": "SoundModDownloader.exe"
