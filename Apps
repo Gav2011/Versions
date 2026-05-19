@@ -8,30 +8,8 @@
     "icon": "https://cdn.modeminc.com/rift/Rift.png",
     "subDir": "Rift",
     "exeUrl": "https://github.com/Gav2011/Rift/releases/latest/download/RiftDownloader.exe",
-    "exeName": "RiftDownloader.exe"
-  },
-  {
-    "name": "SoundMod",
-    "description": "Soundboard & voice changer",
-    "color": "#f23f42",
-    "initial": "S",
-    "initialColor": "White",
-    "icon": "https://cdn.modeminc.com/soundmod/s.png",
-    "subDir": "SoundMod",
-    "exeUrl": "https://github.com/Gav2011/SoundMod/releases/latest/download/SoundModDownloader.exe",
-    "exeName": "SoundModDownloader.exe"
-  },
-  {
-    "name": "Lumen",
-    "description": "Open source privacy-focused browser",
-    "color": "#ff6b35",
-    "initial": "L",
-    "initialColor": "White",
-    "icon": "https://cdn.modeminc.com/lumen/Lumen.png",
-    "subDir": "Lumen",
-    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/LumenDownloader.exe",
-    "exeName": "LumenDownloader.exe",
-    "disabled": true
+    "exeName": "RiftDownloader.exe",
+    "runAfterInstall": true
   },
   {
     "name": "Axis",
@@ -42,7 +20,20 @@
     "icon": "https://cdn.modeminc.com/axis/Axis.png",
     "subDir": "Axis",
     "exeUrl": "https://github.com/Gav2011/Axis/releases/latest/download/AxisDownloader.exe",
-    "exeName": "AxisDownloader.exe"
+    "exeName": "AxisDownloader.exe",
+    "runAfterInstall": true
+  },
+  {
+    "name": "SoundMod",
+    "description": "Soundboard & voice changer",
+    "color": "#f23f42",
+    "initial": "S",
+    "initialColor": "White",
+    "icon": "https://cdn.modeminc.com/soundmod/s.png",
+    "subDir": "SoundMod",
+    "exeUrl": "https://github.com/Gav2011/SoundMod/releases/latest/download/SoundModDownloader.exe",
+    "exeName": "SoundModDownloader.exe",
+    "runAfterInstall": true
   },
   {
     "name": "MGuard",
@@ -57,6 +48,18 @@
     "disabled": true
   },
   {
+    "name": "Lumen",
+    "description": "Open source privacy-focused browser",
+    "color": "#ff6b35",
+    "initial": "L",
+    "initialColor": "White",
+    "icon": "https://cdn.modeminc.com/lumen/Lumen.png",
+    "subDir": "Lumen",
+    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/LumenDownloader.exe",
+    "exeName": "LumenDownloader.exe",
+    "disabled": true
+  },
+  {
     "name": "ModClicker",
     "description": "Auto clicker",
     "color": "#f0a500",
@@ -65,6 +68,7 @@
     "icon": "https://cdn.modeminc.com/modclicker/ModClicker.png",
     "subDir": "ModClicker",
     "exeUrl": "https://github.com/Gav2011/ModClicker/releases/latest/download/ModClickerDownloader.exe",
-    "exeName": "ModClickerDownloader.exe"
+    "exeName": "ModClickerDownloader.exe",
+    "runAfterInstall": true
   }
 ]
