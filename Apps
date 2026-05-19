@@ -12,18 +12,6 @@
     "runAfterInstall": true
   },
   {
-    "name": "Axis",
-    "description": "Email client",
-    "color": "#1a73e8",
-    "initial": "A",
-    "initialColor": "White",
-    "icon": "https://cdn.modeminc.com/axis/Axis.png",
-    "subDir": "Axis",
-    "exeUrl": "https://github.com/Gav2011/Axis/releases/latest/download/AxisDownloader.exe",
-    "exeName": "AxisDownloader.exe",
-    "runAfterInstall": true
-  },
-  {
     "name": "SoundMod",
     "description": "Soundboard & voice changer",
     "color": "#f23f42",
@@ -33,6 +21,30 @@
     "subDir": "SoundMod",
     "exeUrl": "https://github.com/Gav2011/SoundMod/releases/latest/download/SoundModDownloader.exe",
     "exeName": "SoundModDownloader.exe",
+    "runAfterInstall": true
+  },
+  {
+    "name": "Lumen",
+    "description": "Open source privacy-focused browser",
+    "color": "#ff6b35",
+    "initial": "L",
+    "initialColor": "White",
+    "icon": "https://cdn.modeminc.com/lumen/Lumen.png",
+    "subDir": "Lumen",
+    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/LumenDownloader.exe",
+    "exeName": "LumenDownloader.exe",
+    "disabled": true
+  },
+  {
+    "name": "Axis",
+    "description": "Email client",
+    "color": "#1a73e8",
+    "initial": "A",
+    "initialColor": "White",
+    "icon": "https://cdn.modeminc.com/axis/Axis.png",
+    "subDir": "Axis",
+    "exeUrl": "https://github.com/Gav2011/Axis/releases/latest/download/AxisDownloader.exe",
+    "exeName": "AxisDownloader.exe",
     "runAfterInstall": true
   },
   {
@@ -48,18 +60,6 @@
     "disabled": true
   },
   {
-    "name": "Lumen",
-    "description": "Open source privacy-focused browser",
-    "color": "#ff6b35",
-    "initial": "L",
-    "initialColor": "White",
-    "icon": "https://cdn.modeminc.com/lumen/Lumen.png",
-    "subDir": "Lumen",
-    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/LumenDownloader.exe",
-    "exeName": "LumenDownloader.exe",
-    "disabled": true
-  },
-  {
     "name": "ModClicker",
     "description": "Auto clicker",
     "color": "#f0a500",
@@ -69,6 +69,7 @@
     "subDir": "ModClicker",
     "exeUrl": "https://github.com/Gav2011/ModClicker/releases/latest/download/ModClickerDownloader.exe",
     "exeName": "ModClickerDownloader.exe",
-    "runAfterInstall": true
+    "runAfterInstall": true,
+    "disabled": true
   }
 ]
