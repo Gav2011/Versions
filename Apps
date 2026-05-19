@@ -1,1 +1,35 @@
-
+[
+  {
+    "name": "Rift",
+    "description": "Instant messaging & voice platform",
+    "color": "#5865f2",
+    "initial": "R",
+    "initialColor": "White",
+    "icon": "https://cdn.modeminc.com/rift/Rift.png",
+    "subDir": "Rift",
+    "exeUrl": "https://github.com/Gav2011/Rift/releases/latest/download/RiftDownloader.exe",
+    "exeName": "RiftDownloader.exe"
+  },
+  {
+    "name": "SoundMod",
+    "description": "Soundboard & voice changer",
+    "color": "#f23f42",
+    "initial": "S",
+    "initialColor": "White",
+    "icon": "",
+    "subDir": "SoundMod",
+    "exeUrl": "https://github.com/Gav2011/SoundMod/releases/latest/download/SoundModDownloader.exe",
+    "exeName": "SoundModDownloader.exe"
+  },
+  {
+    "name": "DisMod",
+    "description": "Light Discord client",
+    "color": "#57f287",
+    "initial": "D",
+    "initialColor": "#1a1828",
+    "icon": "",
+    "subDir": "DisMod",
+    "exeUrl": "https://github.com/Gav2011/DisMod/releases/latest/download/DisModDownloader.exe",
+    "exeName": "DisModDownloader.exe"
+  }
+]
