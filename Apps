@@ -31,8 +31,8 @@
     "initialColor": "White",
     "icon": "https://cdn.modeminc.com/lumen/Lumen.png",
     "subDir": "Lumen",
-    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/LumenDownloader.exe",
-    "exeName": "LumenDownloader.exe",
+    "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/Lumen.exe",
+    "exeName": "Lumen.exe",
     "runAfterInstall": true,
     "disabled": true
 
