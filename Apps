@@ -25,7 +25,7 @@
   },
   {
     "name": "Lumen",
-    "description": "Open source privacy-focused browser",
+    "description": "(BETA TESTING) Open source privacy-focused browser",
     "color": "#ff6b35",
     "initial": "L",
     "initialColor": "White",
@@ -34,8 +34,7 @@
     "exeUrl": "https://github.com/Gav2011/Lumen/releases/latest/download/Lumen.exe",
     "exeName": "Lumen.exe",
     "runAfterInstall": true,
-    "disabled": true
-
+    "disabled": false
   },
   {
     "name": "Axis",
