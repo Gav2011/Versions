@@ -1,7 +1,22 @@
+//If the app fails to download the app or download a new update use this backup links
+
 Windows=1.9.5
+WindowsLink=https://github.com/Gav2011/Rift/releases/download/1.9.5/Rift.exe
+
 Ubuntu=0
+UbuntuLink=?
+
 CachyOS=0
+CachyOSLink=?
+
 Bazzite=0
-mint=0
+BazzsiteLink=?
+
+Mint=0
+MintLink=?
+
 IOS=0
+IOSLink=?
+
 MacOS=0
+MacOSLink=?
