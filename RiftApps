@@ -24,5 +24,5 @@ IOSLink=?
 MacOS=0
 MacOSLink=?
 
-RiftStatusPageAgent=1.0.0
-RiftStatusPageAgentLink=https://github.com/Gav2011/Rift/releases/download/1.0.0/rift-monitor.py
+RiftStatusPageAgent=1.0.1
+RiftStatusPageAgentLink=https://github.com/Gav2011/RiftStatusPageAgent/releases/download/1.0.1/rift-monitor.py
